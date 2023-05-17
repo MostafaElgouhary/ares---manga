@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "738349786897",
+    "project_id": "ares-manga",
+    "storage_bucket": "ares-manga.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:738349786897:android:3aed14d590253b05ce0eb0",
+        "android_client_info": {
+          "package_name": "com.example.untitled1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "738349786897-6cc11o8cgfmskkfrke6aivnv962br8q0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAS_S_U6kKIAUsmR8F-KBpEepoJ0_G5ELg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "738349786897-6cc11o8cgfmskkfrke6aivnv962br8q0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
